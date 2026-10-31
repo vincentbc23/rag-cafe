@@ -1,0 +1,5 @@
+numpy>=1.26
+openai>=1.40                 # cliente do endpoint OpenAI-compatível do SGLang
+sentence-transformers>=3.0   # bge-m3 na CPU
+scikit-learn>=1.4            # só para o backend offline (--backend lsa)
+# SGLang: veja o README

@@ -1,0 +1,7 @@
+.venv/
+.venv-sglang/
+__pycache__/
+*.pyc
+# gerados pelos scripts (gerar_dados.py / indexar.py)
+fornecedores_cafe.db
+modelo_lsa.pkl
